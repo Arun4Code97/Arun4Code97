@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arunkumar</h1>
 <h3 align="center">A tech enthusiast with 4 years of IT experience in Cloud Engineering and Mainframe Storage Management. Recently, I completed a Java Full Stack Development course at GUVI and am now exploring opportunities as a Java Full Stack Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arun4code97&label=Profile%20views&color=0e75b6&style=flat" alt="arun4code97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arun4code97" alt="arun4code97" /></a> </p>
-
-- 🔭 I’m currently working in [MARG IT Services Pvt LTD](as Cloud Engineer)
+- 🔭 I’m currently working as **Cloud Engineer** in **MARG IT Services Pvt LTD**
 
 - 🌱 I have currently learned **Spring Boot,Thymeleaf Template,React Basics,Hibernate,Spring Framework,HTML,CSS,Bootstrap,Javascript,Data structure & Algorithm,Database-SQL & NOSQL,Junit and AWS**
 
@@ -17,7 +13,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1_5wBiMIr-iOX49MXjUTFPb03OSJ6DC-o/edit?usp=sharing&ouid=106677579240890710054&rtpof=true&sd=true](https://docs.google.com/document/d/1_5wBiMIr-iOX49MXjUTFPb03OSJ6DC-o/edit?usp=sharing&ouid=106677579240890710054&rtpof=true&sd=true)
 
-- ⚡Hobbies **Playing chess and Listening to music**
+- ⚡Hobbies are **Playing chess and listening to music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
