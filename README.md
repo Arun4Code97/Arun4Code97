@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arunjobmailid@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1_5wBiMIr-iOX49MXjUTFPb03OSJ6DC-o/edit?usp=sharing&ouid=106677579240890710054&rtpof=true&sd=true](https://docs.google.com/document/d/1_5wBiMIr-iOX49MXjUTFPb03OSJ6DC-o/edit?usp=sharing&ouid=106677579240890710054&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1_5wBiMIr-iOX49MXjUTFPb03OSJ6DC](https://docs.google.com/document/d/18FU7pVHYwY-r3QJ5z8hkPi7L_GU4_yT8/view)
 
 - ⚡Hobbies are **Playing chess and listening to music**
 
