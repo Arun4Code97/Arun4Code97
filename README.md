@@ -9,10 +9,9 @@
 
 - 💬 Ask me about **J2EE, Spring Boot,Thymeleaf,React Basics, MySql, Mongodb, JUnit,OCI and AWS**
 
-- 📫 How to reach me **arunjobmailid@gmail.com**
+- 📫 How to reach me **arunbairav12@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1_5wBiMIr-iOX49MXjUTFPb03OSJ6DC](https://docs.google.com/document/d/18FU7pVHYwY-r3QJ5z8hkPi7L_GU4_yT8/view)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hG1RyGTr3Q_rESQKF5AmDXbH_tapZkuv/view](https://drive.google.com/file/d/1hG1RyGTr3Q_rESQKF5AmDXbH_tapZkuv/view)
 - ⚡Hobbies are **Playing chess and listening to music**
 
 <h3 align="left">Connect with me:</h3> 
