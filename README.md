@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arunkumar</h1>
-<h3 align="center">A Tech enthusiast with 4 years of IT experience in Cloud Engineering and Mainframe Storage Management. Recently, I completed a Java Full Stack Development course at GUVI and am now exploring opportunities as a Java Full Stack Developer.</h3>
+<h3 align="center">A Tech enthusiast with 4 years 4 months of IT experience including Java Full stack development as 2Years 3 months and 2 years including Cloud Engineering and Mainframe Storage Management. Recently, I completed a Java Full Stack Development course at GUVI and am now exploring opportunities as a Java Full Stack Developer.</h3>
 
-- 🔭 I’m currently working as **Cloud Engineer** in **MARG IT Services Pvt LTD**
+- 🔭 I’m currently working as ** Java Full Stack Developer ** in **MARG IT Services Pvt LTD**
 
 - 🌱 I have currently learned **Spring Boot,Thymeleaf Template,React Basics,Hibernate,Spring Framework,HTML,CSS,Bootstrap,Javascript,Data structure & Algorithm,Database-SQL & NOSQL,Junit and AWS**
-
-- All of my projects are available at **https://arunkumarcoder.netlify.app/**
 
 - 💬 Ask me about **J2EE, Spring Boot,Thymeleaf,React Basics, MySql, Mongodb, JUnit,OCI and AWS**
 
