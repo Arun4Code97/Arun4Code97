@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arunkumar</h1>
-<h3 align="center">A Tech enthusiast with 4 years 4 months of IT experience including Java Full stack development as 2Years 3 months and 2 years including Cloud Engineering and Mainframe Storage Management. Recently, I completed a Java Full Stack Development course at GUVI</h3>
+<h3 align="center">A Tech enthusiast with 4 years 2 months of IT experience including Java Full stack development as 2 years 2 months including Cloud Engineering and Mainframe Storage Management. Recently, I completed a Java Full Stack Development course at GUVI</h3>
 
 - 🔭 I’m currently working as ** Java Full Stack Developer ** in **MARG IT Services Pvt LTD**
 
